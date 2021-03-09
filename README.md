@@ -1,6 +1,6 @@
-# shop_app
+# backend-flutter
 
-A new Flutter application.
+This application is for backend work. That includes API System - Authorization-Tokenization System and a little bit design.
 
 ## Getting Started
 
